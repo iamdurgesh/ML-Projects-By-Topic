@@ -16,42 +16,42 @@ A collection of machine learning projects organized by topic.
 
 ## Classification
 
-1. **Project Name**: Short description
+**Project Name**: Short description
    - **Tech Stack**: Python, scikit-learn, etc.
    - **Description**: Detailed explanation of the project.
    - **Link**: [Project Repository](#)
 
 ## Regression
 
-1. **Project Name**: Short description
+**Project Name**: Short description
    - **Tech Stack**: Python, scikit-learn, etc.
    - **Description**: Detailed explanation of the project.
    - **Link**: [Project Repository](#)
 
 ## Clustering
 
-1. **Project Name**: Short description
+**Project Name**: Short description
    - **Tech Stack**: Python, scikit-learn, etc.
    - **Description**: Detailed explanation of the project.
    - **Link**: [Project Repository](#)
 
 ## Natural Language Processing (NLP)
 
-1. **Project Name**: Short description
+**Project Name**: Short description
    - **Tech Stack**: Python, NLTK, spaCy, etc.
    - **Description**: Detailed explanation of the project.
    - **Link**: [Project Repository](#)
 
 ## Computer Vision
 
-1. **Project Name**: Short description
+ **Project Name**: Short description
    - **Tech Stack**: Python, OpenCV, TensorFlow, etc.
    - **Description**: Detailed explanation of the project.
    - **Link**: [Project Repository](#)
 
 ## Reinforcement Learning
 
-1. **Project Name**: Short description
+**Project Name**: Short description
    - **Tech Stack**: Python, TensorFlow, OpenAI Gym, etc.
    - **Description**: Detailed explanation of the project.
    - **Link**: [Project Repository](#)
